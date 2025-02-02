@@ -24,3 +24,4 @@ NumPy: For numerical operations and array handling.
 pandas: For data manipulation and analysis.
 Scikit-learn: For implementing machine learning algorithms like Logistic Regression and Naive Bayes.
 Matplotlib: For visualizing data and results.
+Streamlit: For Interface
